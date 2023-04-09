@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Bluetooth Headphones",
+        "img":"https://dtt1c9id3txwq.cloudfront.net/assets/images/001/448/572/original/IMILAB-IMIKI-T12-Bluetooth-Earphone-3.jpg?1674293873",
+        "price": 49.99,
+        "features": [
+            "Wireless",
+            "Noise-cancelling",
+            "20hr battery"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Water Bottle",
+        "img":"https://assets.adidas.com/images/w_600,f_auto,q_auto/48057b65216644f683a9aa1c0172ae6e_9366/Steel_Bottle_600_ML_Black_CL6093_01_standard.jpg",
+        "price": 24.99,
+        "features": [
+            "Stainless steel",
+            "24hr cold",
+            "BPA-free"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Smart TV",
+        "img":"https://www.salextra.com.bd/images/thumbs/002/0020813_samsung-43-uhd-4k-smart-tv-ua43bu8000r_600.jpeg",
+        "price": 599.99,
+        "features": [
+            "65\" 4K display",
+            "Streaming apps",
+            "Alexa/Google compatible"
+        ]
+    }
+]
